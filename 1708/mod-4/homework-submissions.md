@@ -115,8 +115,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Patrick Neel
 
-* [Node Server Tutorial]()
-* [Express Tutorial]() - What additional items did you work on?
+* [Node Server Tutorial](https://github.com/patrickjneel/node.js-tutorial)
+* [Express Tutorial](https://github.com/patrickjneel/expressTutorial) - Added the sunsets, JS functionality, 404 error
 * [Promise Practice Exercises]()
 * [Palette Picker PWA]()
 * [Websockets Tutorial]() - What additional items did you work on?
